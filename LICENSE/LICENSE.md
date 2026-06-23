@@ -1,7 +1,8 @@
-CC BY-NC-SA 4.0
-================================================================================
-PROJECT LICENSE NOTICE
-================================================================================
+# CC BY-NC-SA 4.0
+
+## PROJECT LICENSE NOTICE
+
+```text
 Copyright (c) 2026 @jnoah1
 
 This repository contains an  system comprising hardware designs, schematics, 
@@ -15,11 +16,11 @@ give appropriate credit and be shared under this exact same license.
 
 To view a copy of this license, visit:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+```
 
-================================================================================
-FULL LEGAL CODE
-================================================================================
+## FULL LEGAL CODE
 
+```text
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 Public License
 
@@ -380,7 +381,7 @@ Section 8 -- Interpretation.
      as a limitation upon, or waiver of, any privileges and immunities
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
-
-=======================================================================
+```
+## Website
 
 Creative Commons may be contacted at creativecommons.org.
